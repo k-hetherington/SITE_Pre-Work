@@ -43,9 +43,11 @@ Here's a walkthrough of implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 I used the following websites as reference for some parts of my code:
-1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
-2. https://www.samanthaming.com/tidbits/87-5-ways-to-append-item-to-array/
+
+-  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+- https://www.samanthaming.com/tidbits/87-5-ways-to-append-item-to-array/
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
