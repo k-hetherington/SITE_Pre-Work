@@ -20,7 +20,6 @@ function startGame(){
     for(let i=0;i<patternSize ;i++){ 
      pattern.push(getRandomInt(numButtons)); // populate randomized pattern array 
     }
-    console.log(pattern);
     strikes = 1;
     progress = 0;
     gamePlaying = true;
